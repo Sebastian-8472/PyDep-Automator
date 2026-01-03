@@ -1,0 +1,6 @@
+# Questo script utilizza principalmente la libreria standard di Python.
+# Non sono richieste librerie esterne (come pandas o requests) per il funzionamento base.
+# Tuttavia, è consigliato l'uso di Python 3.6+
+
+# Dipendenze suggerite per lo sviluppo/test:
+pip>=21.0
