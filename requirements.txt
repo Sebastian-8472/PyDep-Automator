@@ -1,6 +1,7 @@
-# Questo script utilizza principalmente la libreria standard di Python.
-# Non sono richieste librerie esterne (come pandas o requests) per il funzionamento base.
-# Tuttavia, è consigliato l'uso di Python 3.6+
+# Python Environment Manager - Dependencies
+# This project primarily uses the Python Standard Library.
 
-# Dipendenze suggerite per lo sviluppo/test:
+# Ensure a modern version of pip is available for JSON formatting support
 pip>=21.0
+
+# Minimum Python version recommended: 3.6+
