@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment snapshots and logs
+backup_env_*.txt
+requirements_updated.txt
+updater_debug.log
+
+# Virtual environments
+venv/
+.venv/
+env/
